@@ -11,14 +11,7 @@ db.py: Contains utility functions for database connection.
 ## How to run
 Environment Setup: Ensure Python 3.8+ is installed.
 
-> Blockquotes
-> import streamlit as st
-> import pandas as pd
-> import pandas.io.sql as sqlio
-> import altair as alt
-> import folium
-> from streamlit_folium import st_folium
-> import plotly.express as px
+> import streamlit as st, import pandas as pd, import pandas.io.sql as sqlio, import altair as alt, import folium, from streamlit_folium import st_folium, import plotly.express as px
 
 ## Reflection
 During the development of the Seattle Events Interactive Data Visualization App, I have learned how to web scraping realtime data, data visualization through Streamlit,enhanced my skills in database management. This experience has sharpened my technical abilities and expanded my insight into presenting data in a way that is both accessible and captivating to a wide audience.
